@@ -6,6 +6,16 @@
 
 ## NLP Class HandsOn Practice
 
+### 1. NLP_Gujarati_Lang.ipynb
+    using INLTK library perform NLP operation on Gujarati Language.
+    Performed Operations on Gujarati Language is as Follow:
+    1. Tokenization
+    2. Embeddind Vectors
+    3. Predict next 'N' Words
+    4. Remove Other Language words
+    5. Sentence Similarity
+    6. Generating Similar Sentences
+
 
 ### 1. SNLP_Corpus_Stemmer_Lematization.ipynb
     1. CORPUS (Brown, Inaugural, WebText)
@@ -32,18 +42,7 @@
 
 
 ### 5. SNLP_Sentiment_Analysis.ipynb
-    1. Perform sentiment analysis on Dataset (Movie_Reviews.csv) using NLP and Sentiment analysis Classification using Logistic Regression.
+    1. Perform sentiment analysis classification on Dataset (Movie_Reviews.csv) using NLP and Logistic Regression.
 
 
-### 6. NLP_Gujarati_Lang.ipynb
-    using INLTK library perform NLP operation on Gujarati Language.
-    Performed Operations on Gujarati Language is as Follow:
-    1. Tokenization
-    2. Embeddind Vectors
-    3. Predict next 'N' Words
-    4. Remove Other Language words
-    5. Sentence Similarity
-    6. Generating Similar Sentences
-
-
-In the Document_pdf Folder all the jupyter notebook PDF file are provided with outputs.
+**In the Document_pdf Folder all the jupyter notebook PDF file are provided with outputs.
