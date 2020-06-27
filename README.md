@@ -4,7 +4,7 @@ Name: Harshal Patel
 
 **Reg. No.: 19MAI0032**
 
-# NLP Class HandsOn Practice
+## NLP Class HandsOn Practice
 
 
 1. SNLP_Corpus_Stemmer_Lematization.ipynb
