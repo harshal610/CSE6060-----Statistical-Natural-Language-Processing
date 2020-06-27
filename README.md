@@ -23,22 +23,21 @@
     3. STEMMERS (Porter, Lancaster, snowball)
     4. Lemmatization (WordNet Lemmatizer)
 
-  
+   
+### 2. SNLP_Embedding_Chunk_NER.ipynb
+    1. Word Embedding
+    2. Chunking (Chunking tree)
+    3. Nemed Entity Recognition (using NLTK & SPACY both and also given difference of output)
+
+### 3. SNLP_LOR_Chunking.ipynb
+    1. Lor chunking on 2 text files, generate chunk tree and Named entity Recognition on text files 
+
+
 ### 2. SNLP_Lexicon_Classifier_Cosine-Similarity.ipynb
     1. Lexicons (Identifying Stopwords)
     2. Text Classifier (Gender classification according to Names)
     3. Vectorization & Cosine similarity of text
     4. Document Classification (Sentiment Analysis On Movie Review Corpus)
-
-   
-### 3. SNLP_Embedding_Chunk_NER.ipynb
-    1. Word Embedding
-    2. Chunking (Chunking tree)
-    3. Nemed Entity Recognition (using NLTK & SPACY both and also given difference of output)
-
-  
-### 4. SNLP_LOR_Chunking.ipynb
-    1. Lor chunking on 2 text files, generate chunk tree and Named entity Recognition on text files 
 
 
 ### 5. SNLP_Sentiment_Analysis.ipynb
